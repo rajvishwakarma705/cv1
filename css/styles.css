@@ -29,18 +29,21 @@ body{
     padding-top:250px;
     background-color: #FFC074;
     padding-bottom:0px;
+    width:100%;
 }
 .middle-container{
     padding-top: 50px;
     font-weight: bolder;
     background-color: #ACFFAD;
     padding-bottom: 3   0px;
+    width:100%;
     
 }
 .bottom-container{
     padding-top: 50px;
     background-color: #FFB344;
     height:100%;
+    width:100%;
 }
 .mountain{  
     padding-bottom: 0;
